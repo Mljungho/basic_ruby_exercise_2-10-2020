@@ -13,5 +13,5 @@ winterSleep = {title: "Winter Sleep", release: 2014}
 imdb = [aBeautifullMind, fightClub, kungPow, lobster, winterSleep]
 
 imdb.each do |release|
-    puts "#{release}"
+    puts release[:release]
 end
