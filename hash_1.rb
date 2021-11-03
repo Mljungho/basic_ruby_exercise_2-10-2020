@@ -17,3 +17,5 @@ core_family.push close_family
 #pushes the content from Close family to Core family array.
 puts core_family
 #displays content of core_family
+
+                                             
