@@ -1,0 +1,2 @@
+arr = [["test", "hello", "world"],["example", "mem"]]
+puts arr[1][0] #puts will print the array and will target the 2:nd object [1] from the outer array, and then first object [0] from the inner array witch is Example
